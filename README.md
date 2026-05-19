@@ -2,6 +2,11 @@
 <h2>P.O.O. Java</h2>
 <h3>Trabalho Avaliativo</h3>
 <p>
-  Formulátio para cadastro de equipe e área selecionada<br>
+  Formulário para envio de projeto<br>
+  https://forms.gle/HMjEbPoxJtz5Stjp8
+</p>
+<p>
+  Formulário para cadastro de equipe e área selecionada<br>
   https://forms.gle/AKH7evgss4e6XMZ6A
 </p>
+

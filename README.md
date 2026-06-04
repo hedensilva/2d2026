@@ -21,4 +21,9 @@
   Formulário para cadastro de equipe e área selecionada<br>
   https://forms.gle/AKH7evgss4e6XMZ6A
 </p>
-
+<h2>Introdução à Inteligência Artificial</h2>
+<h3>Revisão</h3>
+<p>
+  Conteúdo e questionário<br>
+  <a href='https://drive.google.com/file/d/1rwx4fPK-6RGevdIcf0EIEH8Y9Ys8Bwj8/view?usp=sharing'>Link</a><br>
+</p>

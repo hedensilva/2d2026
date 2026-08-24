@@ -2,11 +2,8 @@
 <h2>Banco de Dados</h2>
 <h3>Exercícios</h3>
 <p>
-  <a href='https://drive.google.com/file/d/1bk8kcwbdZwPXR7LxLv6hE9RY8VuL7XLD/view?usp=sharing'>Exercício 05</a>
+  <a href='https://drive.google.com/file/d/1P82tcZbRugANLxls3Z-4HjjzbUrTN6RV/view?usp=sharing'>Exercício 05</a>
 </p>
-
-https://drive.google.com/file/d/1P82tcZbRugANLxls3Z-4HjjzbUrTN6RV/view?usp=sharing
-
 <h2>Noções de Robótica</h2>
 <h3>Revisão</h3>
 <p>

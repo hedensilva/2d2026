@@ -1,4 +1,9 @@
-<h1>2D - 2026</h1>
+<h1>2D - 2026.2</h1>
+<h2>Gestão de Startup I</h2>
+<h3>Conteúdo</h3>
+<p>
+  Leia a matéria sobre <a href="https://www.moskitcrm.com/blog/o-que-e-dor-do-cliente">Identificando dores do consumidor</a>. Em seguida assista os videos <a href="http://youtube.com/watch?v=ArHllMhQo38">Jornada de Compra - o caminho para o sim</a> e <a href="https://www.youtube.com/watch?v=fG397i-g6do&t=1s">4 PERGUNTAS SIMPLES Para Descobrir a DOR Do Seu Cliente</a>
+</p>
 <h2>Banco de Dados</h2>
 <h3>Exercícios</h3>
 <p>

@@ -2,6 +2,10 @@
 <h2>Gestão de Startup I</h2>
 <h3>Conteúdo</h3>
 <p>
+  Ler a matéria sobre <a href="https://karlamendess.medium.com/3-como-fazer-uma-matriz-csd-91e39a705c38">Matriz de Necessidades CSD</a>, em seguida reúna com sua equipe e desenvolva um quadro contendo as Certezas, Suposições e Dúvidas sobre a startup.
+</p>
+  
+<p>
   Leia a matéria sobre <a href="https://www.moskitcrm.com/blog/o-que-e-dor-do-cliente">Identificando dores do consumidor</a>. Em seguida assista os videos <a href="http://youtube.com/watch?v=ArHllMhQo38">Jornada de Compra - o caminho para o sim</a> e <a href="https://www.youtube.com/watch?v=fG397i-g6do&t=1s">4 PERGUNTAS SIMPLES Para Descobrir a DOR Do Seu Cliente</a>
 </p>
 <h2>Banco de Dados</h2>

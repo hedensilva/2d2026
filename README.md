@@ -1,5 +1,7 @@
 <h1>2D - 2026.2</h1>
 <h2>Gestão de Startup I</h2>
+<h3>Cadastro de Equipes</h3>
+<p>Cada equipe deve preencher o <a href="https://forms.gle/53HT9s5rrkGyV3cp7">formulário de cadastro</a>, preenchendo corretamente cada campo.</p>
 <h3>Conteúdo</h3>
 <p>
   Ler a matéria sobre <a href="https://karlamendess.medium.com/3-como-fazer-uma-matriz-csd-91e39a705c38">Matriz de Necessidades CSD</a>, em seguida reúna com sua equipe e desenvolva um quadro contendo as Certezas, Suposições e Dúvidas sobre a startup.

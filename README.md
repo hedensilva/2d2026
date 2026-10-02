@@ -13,10 +13,11 @@
 <p>
   Leia os artigos:
   <ol>
-    <li><a href="https://blog.vindi.com.br/modelagem-de-negocios/">Modelagem de negócios: o que é, por que é importante e como fazer?</a></li>
+    <li><a href="https://blog.vindi.com.br/modelagem-de-negocios/" target="_blank">Modelagem de negócios: o que é, por que é importante e como fazer?</a></li>
     <li><a href="https://institutolegado.org/blog/modelagem-de-negocios-por-onde-comecar/">Modelagem de negócios: por onde começar</a></li>
-    <li><a href="https://digital.sebraers.com.br/blog/estrategia/business-model-canvas-como-construir-seu-modelo-de-negocio/">
+    <li><a href="https://digital.sebraers.com.br/blog/estrategia/business-model-canvas-como-construir-seu-modelo-de-negocio/" target="_blank">
 Business Model Canvas: como construir seu modelo de negócio?</a></li>
+    <li><a href="https://www.canva.com/design/DAHW2kIR7V8/nOeJxwHljBzYzBLL1CJGMA/edit" target="_blank">Modelo de BMC no Canvas</a></li>
   </ol>
 </p>
 <p>

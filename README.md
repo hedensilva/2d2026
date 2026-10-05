@@ -1,5 +1,11 @@
 <h1>2D - 2026.2</h1>
 <h2>Apostilas</h2>
+<h3>Recursos</h3>
+<p>
+  <ul>
+    <li><a href="https://drive.google.com/file/d/1ZT1bQr7XuBgdC1nXtDJMCL3pXyH75NZm/view?usp=sharing">Código SQL - Exercicio SELECT</a></li>
+  </ul>
+</p>
 <p>
   <ul>
     <li><a href="https://drive.google.com/file/d/1Jd06KGYW-AjdvA8NvEobQBiUkTFR9nAN/view?usp=sharing">Banco de Dados</a></li>

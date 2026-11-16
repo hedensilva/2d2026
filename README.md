@@ -34,9 +34,10 @@ Business Model Canvas: como construir seu modelo de negócio?</a></li>
 </p>
 <h2>Banco de Dados</h2>
 <h3>Exercícios</h3>
-<p>
-  <a href='https://drive.google.com/file/d/1P82tcZbRugANLxls3Z-4HjjzbUrTN6RV/view?usp=sharing'>Exercício 05</a>
-  <a href='https://drive.google.com/file/d/1cNARAo23IjSHC3-_-t5Ukq-VPa5XPZ7Q/view?usp=sharing'>Revisão 01</a>
+<p
+  <ul>
+    <li><a href='https://drive.google.com/file/d/1P82tcZbRugANLxls3Z-4HjjzbUrTN6RV/view?usp=sharing'>Exercício 05</a></li>
+    <li><a href='https://drive.google.com/file/d/1cNARAo23IjSHC3-_-t5Ukq-VPa5XPZ7Q/view?usp=sharing'>Revisão 01</a></li>
 </p>
 <h2>Noções de Robótica</h2>
 <h3>Revisão</h3>
